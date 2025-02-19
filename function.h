@@ -4,10 +4,9 @@
 #ifndef LAB1_2SEM_FUNCTION_H
 #define LAB1_2SEM_FUNCTION_H
 int inputInteger();
-void write_to_file(const char *filename);
-void readFile(const char *filename);
-int counter(const char *filename, int target);
-void replaceMax(const char *filename, int target);
-void oddBubbleSort(const char *filename);
-
+void writeFile(FILE *file);
+void readFile(FILE *file);
+int counter(FILE *file, int target);
+void replaceMax(FILE *file, int target);
+void oddBubbleSort(FILE *file);
 #endif //LAB1_2SEM_FUNCTION_H
