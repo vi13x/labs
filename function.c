@@ -1,4 +1,4 @@
-#include <stdio.h>мшмшмл
+#include <stdio.h>м
 #include <stdlib.h>
 #include "function.h"
 int inputInteger() {
