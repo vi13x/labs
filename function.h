@@ -10,3 +10,4 @@ int counter(FILE *file, int target);
 void replaceMax(FILE *file, int target);
 void oddBubbleSort(FILE *file);
 #endif //LAB1_2SEM_FUNCTION_H
+aelfjgywae
